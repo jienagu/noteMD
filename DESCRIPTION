@@ -1,0 +1,11 @@
+Package: noteMD
+Title: Print text from shiny ui (support markdown syntax) to pdf or word report
+Version: 0.1.0
+Authors@R: person("Jiena", "McLellan", email = "jienagu90@gmail.com", role = c("aut", "cre"))
+Description: When building a shiny app to generate reports (pdf or word), we can insert a comment box (textarea) in front-end side (ui.R) for user to write down them notes and use this package to document those notes in reports.
+Depends: R (>= 3.4.2)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Suggests: knitr
+RoxygenNote: 6.1.0
