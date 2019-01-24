@@ -5,7 +5,7 @@ Code of this live demo shiny app is here (welcome to download): https://github.c
 
 ## Acknowledgement
 Beef Cattle Institute at Kansas State University: https://ksubci.org/ 
-Special thanks to Dr. Brad White and Dr. David Amrine
+Special thanks to Yihui Xie, Dr. Brad White and Dr. David Amrine
 
 Install from GitHub :  
 `devtools::install_github("jienagu/noteMD")`
