@@ -5,6 +5,7 @@ Code of this live demo shiny app is here (welcome to download): https://github.c
 
 ## Acknowledgement
 Beef Cattle Institute at Kansas State University: https://ksubci.org/ 
+
 Special thanks to Yihui Xie (from RStudio.LLC), Dr. Brad White and Dr. David Amrine
 
 Install from GitHub :  
