@@ -13,6 +13,9 @@ Install from GitHub :
 
 ![](demo.gif)
 
+Hex logo: 
+![](noteMD_logo.png)
+
 Basically, this is how to use `noteMD` to insert a text box in your shiny ui (support markdown syntax) to pdf or word report!
 
 * Step 1: create a textarea in shiny ui:
