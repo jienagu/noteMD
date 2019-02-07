@@ -14,7 +14,7 @@ Install from GitHub :
 ![](demo.gif)
 
 Hexagon logo: 
-![](noteMD_logo.png){width="20%"}
+![](noteMD_logo.png){width=150px}
 
 Basically, this is how to use `noteMD` to insert a text box in your shiny ui (support markdown syntax) to pdf or word report!
 
