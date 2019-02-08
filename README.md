@@ -4,7 +4,7 @@ This is a live demo shiny app using noteMD R package: https://appforiarteam.shin
 Code of this live demo shiny app is here (welcome to download): https://github.com/jienagu/noteMD_shiny_app 
 
 ## Hexagon logo: 
-<img src="noteMD_logo.png"  width="250px">
+<img src="noteMD_logo.png"  width="245px">
 
 ## Acknowledgement
 Beef Cattle Institute at Kansas State University: https://ksubci.org/ 
