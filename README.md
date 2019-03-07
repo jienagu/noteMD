@@ -11,6 +11,9 @@ Beef Cattle Institute at Kansas State University: https://ksubci.org/
 
 Special thanks to Yihui Xie (from RStudio.LLC), Dr. Brad White and Dr. David Amrine
 
+## Install
+`install.packages("noteMD")`
+
 Install from GitHub :  
 `devtools::install_github("jienagu/noteMD")`
 
