@@ -1,3 +1,5 @@
+http://www.r-pkg.org/badges/0.1.0{noteMD} 
+
 # noteMD
 Print text from shiny ui (support markdown syntax) to pdf or word report!
 This is a live demo shiny app using noteMD R package: https://appforiarteam.shinyapps.io/noteMD_shiny_demo/ 
