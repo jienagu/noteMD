@@ -1,4 +1,4 @@
-http://www.r-pkg.org/badges/0.1.0{noteMD} 
+http://www.r-pkg.org/badges/0.1.0/{noteMD} 
 
 # noteMD
 Print text from shiny ui (support markdown syntax) to pdf or word report!
