@@ -38,5 +38,8 @@ Basically, this is how to use `noteMD` to insert a text box in your shiny ui (su
 
 * Step 3: if your report is in pdf, put `note_in_md_pdf(input$markdowninput)` in an R chunk (whereever you want to insert the text); if your report is in word, put `note_in_md_word(input$markdowninput)` in an R chunk! 
 
+Future improvements:
+* Support math formula writting
+
 Enjoy! 
         
