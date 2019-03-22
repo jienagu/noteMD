@@ -4,6 +4,7 @@
 
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/noteMD)](https://cran.r-project.org/package=noteMD)
 [![Rdoc](http://www.rdocumentation.org/badges/version/noteMD)](http://www.rdocumentation.org/packages/noteMD) 
+[![Download](https://cranlogs.r-pkg.org/badges/grand-total/noteMD)](https://cranlogs.r-pkg.org/badges/grand-total/noteMD)
 
 Print text from shiny ui (support markdown syntax) to pdf or word report!
 This is a live demo shiny app using noteMD R package: https://appforiarteam.shinyapps.io/noteMD_shiny_demo/ 
