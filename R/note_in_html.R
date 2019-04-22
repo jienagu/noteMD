@@ -13,11 +13,11 @@ note_in_html=function(input){
   f2 = tempfile()
 
   f1 <- tempfile()
-  writeLines(input, f1)
+  writeLines(input, f1, useBytes = T)
 
   ## convert input to html
   rmarkdown::pandoc_convert(f1, to = 'html', from = 'markdown', output = f2)
   ## read results
-  res <-readLines(f2)
+  res <-readLines(f2, encoding = 'UTF-8')
   paste(res, collapse = '\n')
 }
