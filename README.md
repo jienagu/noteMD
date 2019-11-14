@@ -1,5 +1,5 @@
 
-# noteMD <img src="noteMD_logo.png"  width="180px" align="right"/>
+# noteMD <img src="noteMD_logo_V2.png"  width="180px" align="right"/>
 
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/noteMD)](https://cran.r-project.org/package=noteMD)
 [![Rdoc](http://www.rdocumentation.org/badges/version/noteMD)](http://www.rdocumentation.org/packages/noteMD) 
